@@ -1,0 +1,6 @@
+title,content
+Python Programming,"Python is an interpreted, high-level programming language. It supports multiple programming paradigms including procedural, object-oriented, and functional programming."
+Machine Learning,"Machine learning is a subset of artificial intelligence that focuses on building systems that learn from data. Common approaches include supervised, unsupervised, and reinforcement learning."
+The Eiffel Tower,"The Eiffel Tower is a wrought-iron lattice tower in Paris, France. It was designed by Gustave Eiffel and completed in 1889 as the entrance to the 1889 World's Fair."
+Renewable Energy,"Renewable energy comes from natural sources that are constantly replenished, such as sunlight, wind, rain, tides, waves, and geothermal heat."
+World War II,"World War II was a global war that lasted from 1939 to 1945. It involved the vast majority of the world's countries forming two opposing military alliances: the Allies and the Axis."
